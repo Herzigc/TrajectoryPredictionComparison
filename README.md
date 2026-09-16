@@ -15,3 +15,5 @@ all helper scripts have been either used for data annotation/pre processing or t
 to run the project simply create a conda environment using the provided requirements and run the test_new.py and stat_test.py file with your desired configurations in the scripts for past_len and future_len. If there is no model for your desired combination you can train new models using train_new.py after you changed your past_len and future_len in it.
 
 data provides all json files and the mp4 files for the test part of the dataset for visualization purposes. all human data used is strictly limited to use in this project due to privacy.
+
+Scientific Paper regarding this work: https://zenodo.org/records/20748525
